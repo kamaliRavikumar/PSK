@@ -56,7 +56,9 @@ Attach the program
 ```
 # Output Waveform
 ```
-![image](https://github.com/user-attachments/assets/b14e9646-2996-4414-a5aa-0ae209ecf845)
+![Screenshot 2025-04-29 082507](https://github.com/user-attachments/assets/1689964a-129d-4c3b-96cb-070bc81708e2)
+
+
 
 ```
 # Results

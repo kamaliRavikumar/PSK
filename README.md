@@ -66,6 +66,6 @@ confirming the correct implementation of PSK. The phase variations corresponding
 and the demodulated output matched the original binary sequence.
 ```
 Hardware experiment output waveform:
-![WhatsApp Image 2025-04-28 at 21 44 57_90722b9c](https://github.com/user-attachments/assets/65355209-ee48-4a00-83ce-921cc434984b)
+![WhatsApp Image 2025-04-30 at 14 12 17_d8ca11b8](https://github.com/user-attachments/assets/31fe2cdb-07e6-43b4-afdf-84edc26c362b)
 
 
